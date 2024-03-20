@@ -1,0 +1,31 @@
+.nav_section{
+    float: left;
+    width: 100%;
+    background-color: aquamarine;
+    text-align: center;
+    text-transform: capitalize;
+}
+li{
+    display: inline;
+    color: blueviolet;
+    padding: 0% 5% 0% 0%;
+}
+.main{
+    float: left;
+    width: 100%;
+    color: white;
+    text-align: center;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url("../images/intro-bg.jpg");
+    font-size: 70px;
+}
+.main1{
+    font-family: "rochester";
+    width: 100%;
+    font-weight: 400;
+}
+.function{
+    display: inline;
+    width: 100%; 
+    text-align: center;
+    padding: 0% 5% 0% 0%;
+}
